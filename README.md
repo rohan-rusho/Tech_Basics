@@ -26,10 +26,10 @@ Each topic includes:
 
 |        |        |        |
 |--------|--------|--------|
-| ![e1](SS/e1.png) | ![e2](SS/e2.png) | ![e3](SS/e3.png) |
-| ![e4](SS/e4.png) | ![e5](SS/e5.png) | ![e6](SS/e6.png) |
-| ![e7](SS/e7.png) | ![e8](SS/e8.png) | ![e9](SS/e9.png) |
-| ![e10](SS/e10.png) | ![e11](SS/e11.png) |                |
+| ![e1](SS/1.png) | ![e2](SS/2.png) | ![e3](SS/3.png) |
+| ![e4](SS/4.png) | ![e5](SS/5.png) | ![e6](SS/6.png) |
+| ![e7](SS/7.png) | ![e8](SS/8.png) | ![e9](SS/9.png) |
+| ![e10](SS/10.png) | ![e11](SS/11.png) |                |
 
 ---
 
